@@ -31,7 +31,7 @@ Status colours and component filtering are unchanged.
 
 ## Artwork and fonts
 
-The unmodified source SVGs in `images/` come from the
+The SVG artwork embedded in `template.txt` comes from the
 [GitHub Brand Toolkit logo pack](https://brand.github.com/GitHub_Logos.zip).
 GitHub retains the copyright and trademark rights to its logo. The artwork is
 used here to identify and link to GitHub Status under GitHub's
